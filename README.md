@@ -1,2 +1,3 @@
 # Assignment_05
-assignment 05 github repo
+This is a program to build an inventory management system
+for UW Python CE
