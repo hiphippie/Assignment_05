@@ -1,17 +1,12 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-Created on Fri Nov 12 14:06:19 2021
-
-@author: andreagorder
-"""
 
 #------------------------------------------#
 # Title: CDInventory.py
 # Desc: Starter Script for Assignment 05
 # Change Log: (Who, When, What)
 # DBiesinger, 2030-Jan-01, Created File
-# AndreaGorder, 2021-Nov-10 , Corrected spelling 
+# AndreaGorder, 2021-Nov-10 , Corrected spelling, Add the functionality of loading existing data, QAed existing code, updaed for to-do items
 #------------------------------------------#
 
 # Declare variables
